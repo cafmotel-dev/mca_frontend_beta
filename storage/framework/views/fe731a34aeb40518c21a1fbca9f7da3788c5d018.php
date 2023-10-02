@@ -1,0 +1,1 @@
+<?php /**PATH C:\xampp\htdocs\mca_crm\brightny-frontend\resources\views/layouts/messaging.blade.php ENDPATH**/ ?>
